@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Hanne Bayeh">
+  <rect width="64" height="64" rx="16" fill="#080808"/>
+  <rect x="1.5" y="1.5" width="61" height="61" rx="15" fill="none" stroke="#D6FF2A" stroke-opacity=".4" stroke-width="1.5"/>
+  <text x="32" y="43" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="700" fill="#D6FF2A" text-anchor="middle">HB</text>
+</svg>
